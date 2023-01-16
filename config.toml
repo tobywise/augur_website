@@ -15,7 +15,7 @@ hasCJKLanguage = false
 
 # default amount of posts in each pages
 paginate = 12
-# google analytics code [UA-XXXXXXXX-X]
+# google analytics code [UA-XXXXXXXX-X] 
 googleAnalytics = ""
 # copyright description used only for seo schema
 copyright = ""
@@ -26,6 +26,8 @@ enableRobotsTXT = true
 enableGitInfo = true
 # whether to use emoji code
 enableEmoji = true
+
+canonifyURLs = true
 
 # ignore some build errors
 ignoreErrors = ["error-remote-getjson", "error-missing-instagram-accesstoken"]
