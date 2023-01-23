@@ -1,6 +1,6 @@
 ---
 title: "Moving from bottom-up to top-down: open-science practice in light of research funder’s perspective"
-date: 2023-12-23T14:06:00Z
+date: 2023-01-23T14:06:00Z
 draft: false
 author: "Lei Zhang"
 categories:
