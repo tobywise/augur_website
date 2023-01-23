@@ -43,6 +43,6 @@ We will develop a package that will allow researchers to generate predictions fo
 
 ## 3. A package for researchers who wish to use our prediction approach with their own data
 
-We will develop a package that will allow researchers to re-train the types of predictive models we have used with their own data. This will be useful for researchers who wish to use the same approach with their own data, for example to predict the risk of developing anxiety and depression in a different population based on different measures.
+Our final goal is to develop a package that will allow researchers to re-train the types of predictive models we have used with their own data. This will be useful for researchers who wish to use the same approach with their own data, for example to predict the risk of developing anxiety and depression in a different population based on different measures.
 
 ![A diagram showing how the tool takes data from new measures in a sample of people and generates an algorithm that can predict risk of future risk based on these measures](/tool_diagram3.svg)
