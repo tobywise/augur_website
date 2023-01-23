@@ -31,9 +31,14 @@ On a separate note, open data is one of many layers entailed in open science. Ot
 Open science, in particular FAIR Principles in open data, used to be bottom-up in the early days. As a result, researchers and practitioners have had to rely on many “common science” regarding what ought to be the right thing to proceed. By contrast, major research funders like Wellcome have started to implement open science practices in a more top-down fashion. Such incentive is crucial to bring the best in open science to ever rigorous science. 
 
 
-[1] https://www.escan2022.eu/program/awards/
-[2] https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2022
-[3] https://www.nature.com/articles/sdata201618
-[4] https://wellcome.org/grant-funding/guidance/data-software-materials-management-and-sharing-policy
-[5] https://erc.europa.eu/manage-your-project/open-science
-[6] https://www.nwo.nl/en/research-data-management
+[1] [https://www.escan2022.eu/program/awards/](https://www.escan2022.eu/program/awards/)
+
+[2] [https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2022](https://www.bap.org.uk/awardinfo.php?awardinfoID=2&year=2022)
+
+[3] [https://www.nature.com/articles/sdata201618](https://www.nature.com/articles/sdata201618)
+
+[4] [https://wellcome.org/grant-funding/guidance/data-software-materials-management-and-sharing-policy](https://wellcome.org/grant-funding/guidance/data-software-materials-management-and-sharing-policy)
+
+[5] [https://erc.europa.eu/manage-your-project/open-science](https://erc.europa.eu/manage-your-project/open-science)
+
+[6] [https://www.nwo.nl/en/research-data-management](https://www.nwo.nl/en/research-data-management)
