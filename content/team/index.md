@@ -11,7 +11,9 @@ math:
   enable: true
 ---
 
-<img src="/AP_headshot.jpg" alt="Photo of Toby Wise" style="height: 100px; width:100px; float: left; margin-right:1rem; border-radius:100%"/>
+<img src="/team_photo.png" alt="Photo of the team together" style="margin-bottom:30px; border-radius:1%"/>
+
+<img src="/AP_headshot.jpg" alt="Photo of Alexandra Pike" style="height: 100px; width:100px; float: left; margin-right:1rem; border-radius:100%"/>
 
 # Dr Alexandra Pike (team leader)
 ### University of York
@@ -31,7 +33,7 @@ Toby is a research fellow based at the Department of Neuroimaging within the Ins
 
 Toby started his academic career with a BSc in Psychology and MSc in Cognitive Neuroscience at the University of Sussex, before completing a PhD at the Institute of Psychiatry, Psychology and Neuroscience at King’s College London, where he focused on neuroimaging markers of depression and bipolar disorder. He then completed postdoctoral work at the UCL Max Planck Centre for Computational Psychiatry and Ageing Research at UCL and the Division of the Humanities and Social Sciences at Caltech supported by a Sir Henry Wellcome postdoctoral fellowship from the Wellcome trust.
 
-<img src="/LZ_headshot.jpg" alt="Photo of Toby Wise" style="height: 100px; width:100px; float: left; margin-right:1rem; margin-top:0.5rem; border-radius:100%"/>
+<img src="/LZ_headshot.jpg" alt="Photo of Lei Zhang" style="height: 100px; width:100px; float: left; margin-right:1rem; margin-top:0.5rem; border-radius:100%"/>
 
 # Dr Lei Zhang
 ### University of Birmingham
@@ -44,7 +46,7 @@ His research applies knowledge from cognitive neuroscience, psychology, and comp
 
 Besides, he is deeply interested in Computational Psychiatry, to assess whether the same computational constructs preserve in psychiatric disorders, and how they might go awry at the neurocomputational level.
 
-<img src="/RN_headshot.jpg" alt="Photo of Toby Wise" style="height: 100px; width:100px; float: left; margin-right:1rem; margin-top:0.5rem; border-radius:100%"/>
+<img src="/RN_headshot.jpg" alt="Photo of Ritwik Niyogi" style="height: 100px; width:100px; float: left; margin-right:1rem; margin-top:0.5rem; border-radius:100%"/>
 
 # Dr Ritwik Niyogi
 ### Freelance AI scientist
