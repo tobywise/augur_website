@@ -33,7 +33,7 @@ We want the tool to be useful for researchers, clinicians, and people who experi
 
 We will develop an app that will allow individuals to input their own data and receive predictions about their risk of developing anxiety and depression, and their likelihood of seeking treatment for anxiety and depression, and their likelihood of responding to treatment for anxiety and depression.
 
-We hope this will be useful for clinicians, and for people who are interested in their own mental health.
+This tool will primarily be useful for researchers, to quickly find out which factors are most important to investigate in their own research. However we hope this will also be useful for clinicians, and for people who are interested in their own mental health.
 
 ## 2. A package for researchers who wish to generate predictions in large samples
 
