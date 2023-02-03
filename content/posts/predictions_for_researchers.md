@@ -1,8 +1,8 @@
 ---
 title: "Building a flexible and usable tool for mental health researchers"
 date: 2023-02-02T14:06:00Z
-draft: true
-author: "Alexandra Pike"
+draft: false
+author: "Toby Wise, Alexandra Pike"
 categories:
 - usability
 tags:
@@ -18,7 +18,7 @@ In this post, we'll talk about our goals for supporting mental health researcher
 
 The first goal of Augur is to provide researchers with a tool that can make predictions about mental health outcomes, without any need for specialist skills or coding. 
 
-While our primary hope is that this will enable researchers to determine the importance of specific variables (e.g., _if I collect data on this variable, will it help me predict mental health outcomes?_), we also hope that it will enable researchers to quickly test their own hypotheses about potential active ingredients without the need for new data collection (e.g., _If someone scores highly on measure X, are they more likely to develop anxiety and depression?_).
+While our primary hope is that this will enable researchers to determine the importance of specific variables (e.g., _if I collect data on this variable, will it help me predict mental health outcomes?_), we also hope that it will enable researchers to quickly test their own hypotheses about potential __active ingredients__ without the need for new data collection (e.g., _If someone is far away from green space, are they more likely to develop anxiety and depression?_).
 
 Importantly, we are making this available as a web application, meaning that any researcher can easily access it without needing to install any software or write any code. We hope this will make it as widely accessible as possible.
 
